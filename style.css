@@ -87,7 +87,7 @@ button:hover{
     align-items: center;
     margin-right: 10px;
     color: white;
-    transition: width 0.5s, height 0.5s, transform 0.5s;
+    transition: margin-top 0.25s ease;
     
 }   
 
@@ -96,8 +96,6 @@ button:hover{
     border: none;
     border-radius: 10px;
     background-color: darkgrey;
-    transform: scale(1.1);
-    width: 100%;
 }
 
 .hourly-item img:hover{
