@@ -97,6 +97,7 @@ button:hover{
     border-radius: 10px;
     background-color: darkgrey;
     transform: scale(1.1);
+    width: 100%;
 }
 
 .hourly-item img:hover{
